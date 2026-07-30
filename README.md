@@ -15,5 +15,18 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
