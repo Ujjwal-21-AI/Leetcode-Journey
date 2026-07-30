@@ -29,4 +29,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
