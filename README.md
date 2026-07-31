@@ -25,6 +25,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -45,6 +46,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
