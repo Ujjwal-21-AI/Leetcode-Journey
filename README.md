@@ -58,4 +58,16 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
