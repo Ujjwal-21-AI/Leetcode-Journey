@@ -44,6 +44,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0007-reverse-integer](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +112,16 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
