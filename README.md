@@ -14,6 +14,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0069-sqrtx](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +137,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
