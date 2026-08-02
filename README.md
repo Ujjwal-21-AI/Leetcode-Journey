@@ -21,6 +21,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0069-sqrtx](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0278-first-bad-version) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,4 +131,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
