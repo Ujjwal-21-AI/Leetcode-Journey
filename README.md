@@ -6,6 +6,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
@@ -20,6 +21,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
