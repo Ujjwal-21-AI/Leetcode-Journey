@@ -8,6 +8,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 ## Hash Table
