@@ -9,6 +9,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -37,6 +39,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -73,6 +76,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
