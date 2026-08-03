@@ -25,6 +25,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0374-guess-number-higher-or-lower) |
 ## Number Theory
 |  |
 | ------- |
