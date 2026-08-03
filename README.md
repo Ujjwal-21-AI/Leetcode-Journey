@@ -31,6 +31,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -39,6 +40,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -160,4 +162,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
