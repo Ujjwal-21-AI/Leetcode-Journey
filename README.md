@@ -18,6 +18,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -175,8 +176,10 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
