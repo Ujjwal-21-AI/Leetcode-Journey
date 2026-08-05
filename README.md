@@ -76,6 +76,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +88,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
@@ -120,15 +122,18 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
