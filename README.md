@@ -10,6 +10,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0011-container-with-most-water](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
@@ -83,6 +84,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Recursion
