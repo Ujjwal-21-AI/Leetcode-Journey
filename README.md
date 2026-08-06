@@ -80,6 +80,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0125-valid-palindrome](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0876-middle-of-the-linked-list](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -197,4 +198,5 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
