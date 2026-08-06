@@ -160,6 +160,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -192,4 +193,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
