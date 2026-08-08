@@ -17,6 +17,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0704-binary-search) |
@@ -137,6 +138,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
