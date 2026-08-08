@@ -1,33 +1,27 @@
+import java.util.*;
 class Solution {
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
-        int m = nums1.length;
-        int n = nums2.length;
+        List<List<Integer>> res = new ArrayList<>();
 
-        List<List<Integer>> ans = new ArrayList<>();
-        Set<Pair<Integer, Integer>> visited = new HashSet<>();
+        if(nums1.length == 0 || nums2.length == 0 || k == 0){
+            return res;
+        }
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> Integer.compare(a[2],b[2]));
 
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b)->(a[0] - b[0]));
-        minHeap.offer(new int[]{nums1[0] + nums2[0], 0, 0});
-        visited.add(new Pair<Integer, Integer>(0, 0));
+        for(int i=0; i<Math.min(nums1.length,k); i++){
+            pq.offer(new int[]{i,0, nums1[i] + nums2[0]});
+        }
+        while(k>0 && !pq.isEmpty()){
+            int[] curr = pq.poll();
+            int i = curr[0];
+            int j = curr[1];
+            res.add(Arrays.asList(nums1[i], nums2[j]));
+            k--;
 
-        while (k-- > 0 && !minHeap.isEmpty()) {
-            int[] top = minHeap.poll();
-            int i = top[1];
-            int j = top[2];
-
-            ans.add(List.of(nums1[i], nums2[j]));
-
-            if (i + 1 < m && !visited.contains(new Pair<Integer, Integer>(i + 1, j))) {
-                minHeap.offer(new int[]{nums1[i + 1] + nums2[j], i + 1, j});
-                visited.add(new Pair<Integer, Integer>(i + 1, j));
-            }
-
-            if (j + 1 < n && !visited.contains(new Pair<Integer, Integer>(i, j + 1))) {
-                minHeap.offer(new int[]{nums1[i] + nums2[j + 1], i, j + 1});
-                visited.add(new Pair<Integer, Integer>(i, j + 1));
+            if(j+1 < nums2.length){
+                pq.offer(new int[]{i,j+1, nums1[i] + nums2[j+1]});
             }
         }
-
-        return ans;
+        return res;
     }
 }
