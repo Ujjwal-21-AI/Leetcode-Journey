@@ -15,6 +15,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -43,6 +44,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -98,6 +100,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
