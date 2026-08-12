@@ -27,6 +27,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -221,4 +222,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
