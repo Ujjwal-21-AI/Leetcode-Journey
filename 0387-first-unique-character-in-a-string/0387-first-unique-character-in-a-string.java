@@ -1,13 +1,13 @@
+import java.util.HashMap;
 class Solution {
     public int firstUniqChar(String s) {
-        int[] freq = new int[26];
-
-        for(int i=0; i<s.length(); i++){
-            freq[s.charAt(i) - 'a']++;
+        HashMap<Character, Integer> freq = new HashMap<>();
+        for(char ch : s.toCharArray()){
+            freq.put(ch,freq.getOrDefault(ch, 0)+1);
         }
-
         for(int i = 0; i<s.length(); i++){
-            if(freq[s.charAt(i)- 'a'] == 1){
+            char ch = s.charAt(i);
+            if(freq.get(ch) == 1){
                 return i;
             }
         }
