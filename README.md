@@ -22,6 +22,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -51,6 +52,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -226,4 +228,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
