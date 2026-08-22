@@ -30,6 +30,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0525-contiguous-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
