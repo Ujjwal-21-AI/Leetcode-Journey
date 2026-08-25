@@ -21,6 +21,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0704-binary-search) |
