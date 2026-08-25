@@ -13,6 +13,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 ## Tree
 |  |
