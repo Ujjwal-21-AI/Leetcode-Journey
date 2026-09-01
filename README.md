@@ -15,6 +15,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0001-two-sum](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -71,6 +73,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -107,6 +110,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -163,6 +167,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -238,4 +243,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0525-contiguous-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
