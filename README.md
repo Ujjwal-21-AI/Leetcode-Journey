@@ -152,6 +152,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
@@ -261,6 +262,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -269,5 +271,6 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
