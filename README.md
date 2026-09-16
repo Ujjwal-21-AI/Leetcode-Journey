@@ -20,6 +20,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0162-find-peak-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -152,6 +153,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
@@ -263,12 +265,14 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -277,4 +281,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
