@@ -34,6 +34,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0739-daily-temperatures](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0973-k-closest-points-to-origin) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -274,15 +275,33 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
