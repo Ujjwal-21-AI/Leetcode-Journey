@@ -157,6 +157,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
@@ -171,6 +172,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0347-top-k-frequent-elements](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
@@ -200,6 +202,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -270,6 +273,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -284,6 +288,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0207-course-schedule](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
@@ -315,4 +320,8 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
