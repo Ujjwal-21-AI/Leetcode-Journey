@@ -15,6 +15,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0136-single-number) |
@@ -201,6 +202,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0509-fibonacci-number) |
