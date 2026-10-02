@@ -10,6 +10,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0011-container-with-most-water](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0055-jump-game) |
@@ -89,6 +90,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | ------- |
 | [0007-reverse-integer](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -299,6 +301,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0200-number-of-islands) |
 ## Minimum Spanning Tree
 |  |
