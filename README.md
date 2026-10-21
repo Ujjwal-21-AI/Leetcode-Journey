@@ -36,6 +36,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 | [0485-max-consecutive-ones](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0877-stone-game) |
@@ -244,6 +245,7 @@ I have created this repo for my leetcode journey. whenever i complete any proble
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ujjwal-21-AI/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
